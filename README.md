@@ -49,8 +49,8 @@ Here are some ideas to get you started:
   </a>
   <a href="https://https://leetcode.com/u/samruddhiselukar/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-    <img src="https://skillicons.dev/icons?i=leetcode" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" /><!-- sqlite, safari, google-chrome are other good icon options -->
+<!--     <img src="https://skillicons.dev/icons?i=leetcode" /> -->
+<!--       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" /><!-- sqlite, safari, google-chrome are other good icon options --> 
   </a>
 </div>
 
