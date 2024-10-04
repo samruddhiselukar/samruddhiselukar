@@ -1,7 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Sam!
-👩🏻‍💻 Software Engineer expertised in Full Stack Development<br/>
+👩🏻‍💻 Software Engineer skilled in Full Stack Development<br/>
 👩🏻‍🎓 Studied at the IIIT, Nagpur<br/>
 🎨 Continuously learning about Computer Science, tech, and productivity<br/>
 💭 Currently learning about System Design!<br/>
