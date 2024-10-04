@@ -1,98 +1,29 @@
+<!-- Level 3: Add custom code -->
 
-<!--
-## Hi there 👋
+# 👋 Hi, I'm Sam!
+👩🏻‍💻 Software Engineer expertised in Full Stack Development<br/>
+👩🏻‍🎓 Studied at the IIIT, Nagpur<br/>
+🎨 Continuously learning about Computer Science, tech, and productivity<br/>
+💭 Currently learning about System Design!<br/>
 
-**samruddhiselukar/samruddhiselukar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=samruddhiselukar.samruddhiselukar" />
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sam!;" />
-</h1>
-
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
-
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![](https://github-readme-stats.vercel.app/api?username=samruddhiselukar&show_icons=true&theme=dark)
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **Redis Server**
- 
- 🌱 I’m currently learning **Docker, React, AWS**
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 
- 👯 I’m looking to collaborate on **Full Stack Development**
-
-💬 Ask me about **Java, Spring Boot, Angular... or anything [here](https://github.com/samruddhiselukar/samruddhiselukar/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:samruddhiselukar@gmail.com">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://linkedin.com/in/samruddhiselukar" target="_blank">
-      <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-<!--   <a href="https://https://leetcode.com/u/samruddhiselukar/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-<!--     <img src="https://skillicons.dev/icons?i=leetcode" /> -->
-<!--       <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40" /><!-- sqlite, safari, google-chrome are other good icon options  
-  </a> -->
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
+![Angular](https://img.shields.io/badge/angular-DD0031.svg?style=for-the-badge&logo=angular&logoColor=white")
+![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Rest API](https://img.shields.io/badge/REST%20API-02569B.svg?style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 <br/>
-<hr/>
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/samruddhiselukar/samruddhiselukar/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-samruddhiselukar.vercel.app/?user=samruddhiselukar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-samruddhiselukar.vercel.app/api?username=samruddhiselukar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-samruddhiselukar.vercel.app/api/top-langs/?username=samruddhiselukar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
