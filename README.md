@@ -1,10 +1,13 @@
 <!-- Level 3: Add custom code -->
 
 # 👋 Hi, I'm Sam!
-👩🏻‍💻 Software Engineer skilled in Full Stack Development<br/>
+👩🏻‍💻 Software / Data Engineer skilled in Python, Java, and SQL<br/>
 👩🏻‍🎓 Studied at the IIIT, Nagpur<br/>
-🎨 Continuously learning about Computer Science, tech, and productivity<br/>
+🎨 Continuously learning about Computer Science, AI, and productivity<br/>
 💭 Currently learning about System Design!<br/>
+
+# 📄 Download My Resume
+[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://your-website.com/path-to-resume.pdf)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=samruddhiselukar&show_icons=true&theme=dark)
