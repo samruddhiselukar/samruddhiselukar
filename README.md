@@ -7,7 +7,7 @@
 💭 Currently learning about System Design!<br/>
 
 # 📄 Download My Resume
-[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://your-website.com/path-to-resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Download_Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://drive.google.com/file/d/1Fl79Q2QiDISknkr2Pgzz6Ikb6UtE1aj5/view?usp=sharing)
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=samruddhiselukar&show_icons=true&theme=dark)
